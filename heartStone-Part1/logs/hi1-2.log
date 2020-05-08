@@ -1,0 +1,15 @@
+Mar 24, 2020 12:23:31 AM source.Log makelog
+FINEST: USER:hi1
+CREATED_AT:2020/03/24 00:23:31
+PASSWORD:hi
+
+Mar 24, 2020 12:25:06 AM source.CLI cli
+FINEST: help
+Mar 24, 2020 12:25:24 AM source.CLI cli
+FINEST: navigate collections
+Mar 24, 2020 12:26:14 AM source.CLI cli
+FINEST: select hero:source.entities.Mage
+Mar 24, 2020 12:27:35 AM source.entities.Mage setCards
+FINEST: error java.lang.NullPointerException
+Mar 24, 2020 12:27:58 AM source.CLI cli
+FINEST: navigate store

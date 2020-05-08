@@ -1,0 +1,1 @@
+{"HP":0,"Attack":0,"description":"Whenever you cast a spell, gain +1 Attack.","cardType":"MINION","rarity":"COMMON","heroClass":"MAGE","collectible":true,"name":"Mana Wyrm","manaCost":2}

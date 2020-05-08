@@ -1,0 +1,12 @@
+Mar 24, 2020 12:45:31 AM source.Log makelog
+FINEST: 
+USER:fgh
+CREATED_AT:2020/03/24 00:45:30
+PASSWORD:fgh
+
+Mar 24, 2020 12:46:18 AM source.CLI cli
+FINEST: help
+Mar 24, 2020 12:46:50 AM source.CLI cli
+FINEST: navigate store
+Mar 24, 2020 12:47:03 AM source.CLI cli
+FINEST: sell card:op

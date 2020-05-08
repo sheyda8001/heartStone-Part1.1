@@ -1,0 +1,3 @@
+source.entities.Mage
+source.entities.Warlock
+source.entities.Rouge
